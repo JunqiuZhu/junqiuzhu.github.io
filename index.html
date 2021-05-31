@@ -55,7 +55,41 @@ cosurpervised by Prof. <a href="http://vr.sdu.edu.cn/info/1010/1060.htm">Lu Wang
         </td>
       </tr>
 
-   
+   <tr>
+  <td colspan="2">
+
+    <h2>Selected Publications</h2>
+    <table>
+
+     
+      <tr>
+        <td valign="top"><img src="complum.jpg" height="192" width="256"></td>
+        <td>
+      <b>Neural Complex Luminaires: Representation and Rendering</b><br>
+     Junqiu Zhu, Yaoyi Bai, Zilin Xu, Steve Bako, Edgar Velázquez-Armendáriz, Lu Wang, Pradeep Sen, Miloš Hašan, Ling-Qi Yan<br>
+      <i>ACM Transactions on Graphics (Proceedings of SIGGRAPH 2021)</i>
+      <a href="https://sites.cs.ucsb.edu/~lingqi/publications/paper_complum.pdf">[PDF]</a>
+      <a href="https://sites.cs.ucsb.edu/~lingqi/publications/video_complum.mp4">[Video]</a>
+      [Code](Coming soon!)
+     
+
+    Physically-based rendering of complex luminaires, such as grand chandeliers in concert halls, 
+		can be extremely costly. The emitting sources are typically encased in complex
+		refractive geometry, creating difficult light paths that require many samples to 
+		evaluate with Monte Carlo approaches. Previous work has attempted to speed up this process,
+		but the methods are either inaccurate, require very large lightfield storage, and/or do not fit 
+		well into modern path tracing frameworks. Inspired by the success of deep networks, 
+		which can model complex relationships robustly and be evaluated efficiently, 
+		we propose to use a machine learning framework to compress a complex luminaire's light field into an implicit neural
+		representation. Our approach can easily plug into conventional renderers, as it works with the standard techniques of 
+		path tracing and multiple importance sampling (MIS). Our solution is to train three networks to perform the essential operations 
+		for evaluating the complex luminaire at a specific point and view direction, importance sampling a point on the luminaire given 
+		a shading location, and blending to determine the transparency of luminaire queries to properly combine them with other scene elements. 
+		We perform favorably relative to state-of-the-art approaches and render final images that are close to the high sample count reference with 
+		only a fraction of the computation and storage costs, with no need to store the original luminaire geometry and materials.<br><br>
+
+        </td>
+      </tr>
 
 
 
