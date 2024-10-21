@@ -9,6 +9,19 @@ redirect_from:
 
 I'm a postdoctoral fellow of University of California, Santa Babara advised by Prof. [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/). I received my Ph.D. degree from Shandong University, China, in 2022, working under the supervision of [Prof. Xiangxu Meng](http://vr.sdu.edu.cn/info/1010/1073.htm), co-supervised by [Prof. Lu Wang](http://vr.sdu.edu.cn/info/1010/1060.htm), and [Prof. Yanning Xu](http://vr.sdu.edu.cn/info/1010/1062.htm). I was remotely supervised by [Prof. Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/) during my doctoral studies.
 
+Research Interest
+======
+My research is in Computer Graphics and mainly focuses on visual appearance modeling and rendering. I work to understand why materials in the real world look the way they do and how we can accurately and effectively model their interaction with light.
+
+
+News
+======
+- **<span style="color:lightblue">[July 2024]</span>** I will serve as a member of the Eurographics 2025 Paper Program Committee!
+- **<span style="color:lightblue">[July 2024]</span>** With Zahra Montazeri, we organized the Women in Rendering Dinner at EGSR!
+- **<span style="color:lightblue">[April 2024]</span>** I will serve as an instructor in the Symposium on Geometry Processing (SGP) 2024 Graduate School!
+- **<span style="color:lightblue">[April 2024]</span>** I will serve as a member of the Pacific Graphics 2024 Paper Program Committee!
+- **<span style="color:lightblue">[March 2024]</span>** I will serve as a member of the SIGGRAPH Asia 2024 Paper Program Committee!
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
