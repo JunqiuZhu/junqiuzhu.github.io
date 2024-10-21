@@ -16,11 +16,11 @@ My research is in Computer Graphics and mainly focuses on visual appearance mode
 
 News
 ======
-- **<span style="color:blue">[July 2024]</span>** I will serve as a member of the Eurographics 2025 Paper Program Committee!
-- **<span style="color:blue">[July 2024]</span>** With Zahra Montazeri, we organized the Women in Rendering Dinner at EGSR!
-- **<span style="color:blue">[April 2024]</span>** I will serve as an instructor in the Symposium on Geometry Processing (SGP) 2024 Graduate School!
-- **<span style="color:blue">[April 2024]</span>** I will serve as a member of the Pacific Graphics 2024 Paper Program Committee!
-- **<span style="color:blue">[March 2024]</span>** I will serve as a member of the SIGGRAPH Asia 2024 Paper Program Committee!
+- **<span style="color:mintcream">[July 2024]</span>** I will serve as a member of the Eurographics 2025 Paper Program Committee!
+- **<span style="color:mintcream">[July 2024]</span>** With Zahra Montazeri, we organized the Women in Rendering Dinner at EGSR!
+- **<span style="color:mintcream">[April 2024]</span>** I will serve as an instructor in the Symposium on Geometry Processing (SGP) 2024 Graduate School!
+- **<span style="color:mintcream">[April 2024]</span>** I will serve as a member of the Pacific Graphics 2024 Paper Program Committee!
+- **<span style="color:mintcream">[March 2024]</span>** I will serve as a member of the SIGGRAPH Asia 2024 Paper Program Committee!
 
 
 
