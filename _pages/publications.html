@@ -1,36 +1,43 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+<div class="row">
+  <div class="col-md-4">
+    <!-- Image -->
+    <img class="img-fluid" src="{{ page.image }}" alt="{{ page.title }}">
+  </div>
+  
+  <div class="col-md-8">
+    <h2>{{ page.title }}</h2>
+    <p><i>{{ page.subtitle }}</i></p>
+    <p>
+      {% for author in page.authors %}
+        <a href="{{ author.link }}">{{ author.name }}</a>{% if forloop.last == false %}, {% endif %}
+      {% endfor %}
+    </p>
+    
+    <p>{{ page.venue }} ({{ page.year }})</p>
+    
+    <!-- Buttons -->
+    <div class="btn-group">
+      {% if page.project_page %}
+        <a href="{{ page.project_page }}" class="btn btn-primary">Project Page</a>
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+      {% if page.paper %}
+        <a href="{{ page.paper }}" class="btn btn-primary">Paper</a>
+      {% endif %}
+      {% if page.code %}
+        <a href="{{ page.code }}" class="btn btn-primary">Code</a>
+      {% endif %}
+      {% if page.slides %}
+        <a href="{{ page.slides }}" class="btn btn-primary">Slides</a>
+      {% endif %}
+      {% if page.supp %}
+        <a href="{{ page.supp }}" class="btn btn-primary">Supplementary</a>
+      {% endif %}
+      {% if page.doi %}
+        <a href="{{ page.doi }}" class="btn btn-primary">DOI</a>
+      {% endif %}
+      {% if page.arxiv %}
+        <a href="{{ page.arxiv }}" class="btn btn-primary">arXiv</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
