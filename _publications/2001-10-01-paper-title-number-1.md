@@ -23,8 +23,6 @@ author_profile: true
     </p>
     <p>Published in <i>ACM SIGGRAPH 2024 (Conference Track)</i></p>
     <p><a href="https://sites.cs.ucsb.edu/~lingqi/publications/paper_sig24cloth.pdf" target="_blank">[Download Paper]</a></p>
-    <p class="archive__item-excerpt" itemprop="description">
-      Surface-based cloth appearance models have been rapidly advancing, shifting from detail-less BRDFs to modern per-point shading models with accurate spatially-varying reflection, transmission, and so on. However, the increased complexity has brought about realism-performance trade-offs: from closeup, rendered cloth can be highly inaccurate due to the missing, unaffordable parallax effects; from far away, significant amount of noise will show up since every point can be shaded differently inside a pixel's footprint. In this paper, we aim at eliminating the trade-off with a realistic multi-scale surface-based cloth appearance model. We propose a comprehensive micro-scale model focusing on correct parallax effects, and a practical meso-scale integration scheme, emphasizing efficiency while losslessly preserving accurate highlights and self-shadowing. We further improve its performance using our novel Clustered Control Variates (CCV) and Summed-Area Table (SAT) integration scheme, and its practicality using an efficient Clustered Principal Component Analysis (C-PCA) compression method. As a result, our multi-scale model achieves a 30× acceleration compared to the state-of-the-art, is able to represent a variety of realistic cloth appearance, and can be potentially applied in real-time applications.
-    </p>
+    
   </div>
 </div>
