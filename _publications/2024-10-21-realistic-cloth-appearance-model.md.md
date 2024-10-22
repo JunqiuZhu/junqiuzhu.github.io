@@ -15,7 +15,7 @@ author_profile: true
   <div class="col-md-9" style="flex: 3;">
     <h2 class="archive__item-title" itemprop="headline">
       <a href="https://sites.cs.ucsb.edu/~lingqi/publications/paper_sig24cloth.pdf" target="_blank">
-        A Realistic Multi-scale Surface-based Cloth Appearance Model
+        A2 Realistic Multi-scale Surface-based Cloth Appearance Model
       </a>
     </h2>
     <p>
