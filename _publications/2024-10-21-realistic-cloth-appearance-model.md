@@ -28,12 +28,7 @@ author_profile: true
 </div>
 
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+
 
 <div class="row" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 图片显示在左边，占1/4宽度 -->
