@@ -22,6 +22,7 @@ News
 - **<span style="color:#3EB489">[April 2024]</span>** I will serve as an instructor in the Symposium on Geometry Processing (SGP) 2024 Graduate School!
 - **<span style="color:#3EB489">[April 2024]</span>** I will serve as a member of the Pacific Graphics 2024 Paper Program Committee!
 - **<span style="color:#3EB489">[March 2024]</span>** I will serve as a member of the SIGGRAPH Asia 2024 Paper Program Committee!
+- **<span style="color:#3EB489">[Jun 2023]</span>** Our paper A Practical and Hierarchical Yarn-based Shading Model for Cloth has won EGSR 2023 Best Paper Award and EGSR 2023 Best Visual Effects Award at the same time!
 
 
 
