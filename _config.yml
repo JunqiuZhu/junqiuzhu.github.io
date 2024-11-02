@@ -12,7 +12,7 @@ title                    : "Junqiu's Research Page"
 title_separator          : "-"
 name                     : &name "Junqiu Zhu"
 description              : &description "personal description"
-url                      : https://junqiuzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # https://junqiuzhu.github.io  the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 
@@ -218,9 +218,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
