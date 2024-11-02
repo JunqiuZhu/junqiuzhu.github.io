@@ -65,11 +65,9 @@ author_profile: true
       <strong>Authors:</strong> Junqiu Zhu, Zahra Montazeri, Jean-Marie Aubry, Ling-Qi Yan, Andrea Weidlich
     </p>
     <p>Published in <i>Computer Graphics Forum (Proceedings of Eurographics Symposium on Rendering 2023)</i></p>
-    <p><a href="https://sites.cs.ucsb.edu/~lingqi/publications/paper_egsr23cloth.pdf" target="_blank">[Download Paper]</a></p>
-    <p>
-      <span style="background-color: #ffffff; color: #d43535;"><b>EGSR 2023 Best Paper Award</b></span> and
+    <span style="background-color: #ffffff; color: #d43535;"><b>EGSR 2023 Best Paper Award</b></span> and
       <span style="background-color: #ffffff; color: #d43535;"><b>EGSR 2023 Best Visual Effects Award</b></span>
-    </p>
+    <p><a href="https://sites.cs.ucsb.edu/~lingqi/publications/paper_egsr23cloth.pdf" target="_blank">[Download Paper]</a></p>
   </div>
 </div>
 <br>
