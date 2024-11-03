@@ -16,7 +16,7 @@ My research focuses on the intersection of artificial intelligence (AI) and phot
 
 News
 ======
-- **<span style="color:#3EB489">[July 2024]</span>** We're excited to present our course, 'Recent Advances in Realistic Cloth Rendering,' at SIGGRAPH Asia 2024 in Tokyo! Join us if you're interested!
+- **<span style="color:#3EB489">[Dec 2024]</span>** We're excited to present our course, 'Recent Advances in Realistic Cloth Rendering,' at SIGGRAPH Asia 2024 in Tokyo! Join us if you're interested!
 - **<span style="color:#3EB489">[July 2024]</span>** I will serve as a member of the Eurographics 2025 Paper Program Committee!
 - **<span style="color:#3EB489">[July 2024]</span>** With Zahra Montazeri, we organized the Women in Rendering Dinner at EGSR!
 - **<span style="color:#3EB489">[April 2024]</span>** I will serve as an instructor in the Symposium on Geometry Processing (SGP) 2024 Graduate School!
