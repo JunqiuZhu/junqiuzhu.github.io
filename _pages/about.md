@@ -11,7 +11,7 @@ I'm a postdoctoral fellow of University of California, Santa Babara advised by P
 
 Research
 ======
-My research is in Computer Graphics and mainly focuses on visual appearance modeling and rendering. I work to understand why materials in the real world look the way they do and how we can accurately and effectively model their interaction with light.
+My research focuses on the intersection of artificial intelligence (AI) and photorealistic rendering, particularly on visual appearance modeling within computer graphics (as applied in the metaverse and digital human contexts). I am committed to unraveling the intricacies of why the real world appears as it does and how we can model interactions with light in an accurate and effective manner. Two distinct rendering paradigms have emerged: one focused on studying optical phenomena and physical structures that influence appearance and building models that adhere to physical laws, and the other on integrating data-driven approaches—such as training neural networks on observational data—to enhance the accuracy and realism of digital representations. Ultimately, my goal is to combine these two approaches to recreate the subtle nuances of the real world within digital environments.
 
 
 News
