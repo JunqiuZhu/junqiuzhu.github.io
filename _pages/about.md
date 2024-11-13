@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "A Short Bio"
+title: "Junqiu Zhu: Research Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+A Short Bio
+======
 I'm a postdoctoral fellow of University of California, Santa Babara advised by Prof. [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/). I received my Ph.D. degree from Shandong University, China, in 2022, working under the supervision of [Prof. Xiangxu Meng](http://vr.sdu.edu.cn/info/1010/1073.htm), co-supervised by [Prof. Lu Wang](http://vr.sdu.edu.cn/info/1010/1060.htm), and [Prof. Yanning Xu](http://vr.sdu.edu.cn/info/1010/1062.htm). I was remotely supervised by [Prof. Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/) during my doctoral studies.
 
 Research
@@ -16,6 +17,7 @@ My research focuses on the intersection of artificial intelligence (AI) and phot
 
 News
 ======
+- **<span style="color:#3EB489">[Nov 2024]</span>** I will serve as a member of the EGSR 2025 Paper Program Committee!
 - **<span style="color:#3EB489">[Dec 2024]</span>** We're excited to present our course, 'Recent Advances in Realistic Cloth Rendering,' at SIGGRAPH Asia 2024 in Tokyo! Join us if you're interested!
 - **<span style="color:#3EB489">[July 2024]</span>** I will serve as a member of the Eurographics 2025 Paper Program Committee!
 - **<span style="color:#3EB489">[July 2024]</span>** With Zahra Montazeri, we organized the Women in Rendering Dinner at EGSR!
